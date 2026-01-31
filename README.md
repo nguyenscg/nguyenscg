@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello World! I'm Sophia! 👋
+- I'm a student in Information Technology Infrastructure
+- I'm interested in Cloud Computing
+- You can reach me at nguyencsg@gmail.com
 
 <!--
 **nguyenscg/nguyenscg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
